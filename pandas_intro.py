@@ -7,6 +7,7 @@ calNew = pd.DataFrame(cal)
 print(calNew) 
 
 
+
 #Series
 # import pandas as pd
 # cal={"day1":420, "day2":380,"day3":390}
