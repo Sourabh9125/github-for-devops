@@ -5,6 +5,7 @@ cal={"Meals":[40,60,80],
      "Divided":[2,1,3]}
 calNew = pd.DataFrame(cal)
 print(calNew) 
+name=["Breakfast","Lunch","Dinner"]
 
 
 
